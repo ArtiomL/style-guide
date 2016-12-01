@@ -13,5 +13,4 @@
 import json
 import os
 import requests
-from signal import SIGKILL
 ```
