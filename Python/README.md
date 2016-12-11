@@ -5,7 +5,7 @@
 # F5 Networks - External Monitor: Azure HA
 # https://github.com/ArtiomL/f5networks
 # Artiom Lichtenstein
-# v0.5, 05/08/2016
+# v0.0.5, 05/08/2016
 ```
 
 ### import
